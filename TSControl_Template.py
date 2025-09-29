@@ -9,7 +9,7 @@ from utility_functions import *
 
 # ===== Script Global Variables =====
 GENERAL_CFG = {
-    'port': 'COM5',     # PC port name
+    'port': 'COM9',     # PC port name
     'baud': 115200,     # Baud rate
     'timeout': 120,   # Timeout in seconds
     'log_file': f"{str(datetime.now().date()).replace('-', '_')}_GDAq_Lab2.log",
