@@ -1,0 +1,12 @@
+A partial and non-exaustive list of GeoCOM commands that you will probably need is the following:
+
+AUS_SetUserAtrState
+AUT_ChangeFace
+AUT_MakePositioning
+AUT_Set_User_Spiral
+AUT_SetTol
+BAP_MeasDistanceAngle
+BAP_SetPrismType
+BAP_SetTargetType
+TMC_SetEdmMode
+TMC_SetHeight
